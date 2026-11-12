@@ -1,9 +1,9 @@
 # NdLinear-Enhanced CNN for Image Classification (SVHN Dataset)
 
 In this project, I built a full deep learning pipeline for image classification using a CNN enhanced with NdLinear layers.
-n this project, I built a deep learning pipeline for image classification using a CNN enhanced with NdLinear layers. The model is trained and evaluated on the SVHN (Street View House Numbers) dataset — a challenging real-world digit recognition task.
+n this project, I built a deep learning pipeline for image classification using a CNN enhanced with NdLinear layers. The model is trained and evaluated on the SVHN (Street View House Numbers) dataset  a challenging real-world digit recognition task.
 
-Instead of flattening feature maps early (which loses spatial relationships), I integrated NdLinear — a powerful module that applies N-dimensional linear transformations. This allows the model to preserve spatial structure across multiple dimensions, leading to better generalization, fewer parameters, and higher performance compared to standard CNNs with traditional dense layers
+Instead of flattening feature maps early (which loses spatial relationships), I integrated NdLinear  a powerful module that applies N-dimensional linear transformations. This allows the model to preserve spatial structure across multiple dimensions, leading to better generalization, fewer parameters, and higher performance compared to standard CNNs with traditional dense layers
 
 # Key Features
 - **NdLinear-based CNN architecture** (preserves multi-dimensional structure)
